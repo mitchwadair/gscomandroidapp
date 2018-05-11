@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebLMAppAndroid</string>
+    <string name="change_league_url">Change League URL</string>
+    <string name="ok">OK</string>
+</resources>
